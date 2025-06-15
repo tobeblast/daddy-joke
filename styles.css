@@ -55,3 +55,9 @@ body {
   box-shadow: 0 4px 4px rgba(255, 255, 255, 0.3);
   transition: all 300ms ease;
 }
+
+@media (max-width: 500px) {
+  .btn {
+    width: 200px;
+  }
+}
